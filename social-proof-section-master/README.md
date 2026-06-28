@@ -5,7 +5,7 @@ This is my solution to the [Social proof section challenge on Frontend Mentor](h
 ## Overview
 
 ### Screenshot
-![My Solution](https://raw.githubusercontent.com/ASMAU-USMAN/-social-proof-section/main/Screenshot%20.png)
+![My Solution](https://raw.githubusercontent.com/ASMAU-USMAN/-social-proof-section/main/Screenshot1.png)
 
 ### Links
 - Live Site URL: [Social Proof Section](https://social-proof-section-lyart-one.vercel.app/)
